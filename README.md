@@ -2,8 +2,6 @@
 
 Members:
 
-
 Haoyang Yu (hy2581)
-
 
 Yilin He (yh3089)
