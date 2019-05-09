@@ -27,23 +27,29 @@ The original database was collected by researchers at Case Western Reserve Unive
 
 &emsp;○ Healthy/Non-invasive tumor tissues
 
+### Image Pre-processing
+The size of original images is 50 × 50. In the pre-processing step, histopathological images were decoded and resized to 75 × 75 × 3 to be compatible with existing pre-trained models. Then images with their corresponding labels were made into a dataset and fed into the convolution neural network.
 
+### CNN Architecture
+This model consisted of one pre-trained Xception model, one GlobalAveragePooling layer, one dropout layer, and three fully-connected layers. 
+
+### Performance
+In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
 
 
 <div align=center><img src="https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Flow%20Diagram.png" width = "250" div align=center />
 
 Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 
-![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Xception.png)
-
-Figure 2. The architecture of Xception model.
 
 ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png)
 
-Figure 3. The classification results of IDC and non-IDC on histopathologic images at 40 magnification.
+Figure 2. The classification results of IDC and non-IDC on histopathologic images at 40 magnification.
+
+Another model evaluation criterion is the receiver operating characteristic curve (ROC). The ROC curve plots parametri- cally TPR versus FPR with different steps. The area under the curve (AUC) represents the probability that a classifier will generate a positive prediction for a randomly chosen positive input. In this case, the area under the curve (AUC) is 0.90.
 
 ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/ROC.png)
 
-Figure 4. ROC curve.
+Figure 3. ROC curve.
 
 
