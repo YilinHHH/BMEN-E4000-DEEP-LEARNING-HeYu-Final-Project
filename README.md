@@ -42,13 +42,17 @@ Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 ### Performance
 In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
 
-<div align=center>![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png)
+<div align=center>
+  
+  ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png)
 
 Figure 2. The classification results of IDC and non-IDC on histopathologic images at 40 magnification.
 
 <div align=left>Another model evaluation criterion is the receiver operating characteristic curve (ROC). The ROC curve plots parametri- cally TPR versus FPR with different steps. The area under the curve (AUC) represents the probability that a classifier will generate a positive prediction for a randomly chosen positive input. In this case, the area under the curve (AUC) is 0.90.
 
-<div align=center>![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/ROC.png)
+<div align=center>
+  
+  ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/ROC.png)
 
 Figure 3. ROC curve.
 
