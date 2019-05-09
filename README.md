@@ -33,14 +33,12 @@ The size of original images is 50 × 50. In the pre-processing step, histopathol
 ### CNN Architecture
 This model consisted of one pre-trained Xception model, one GlobalAveragePooling layer, one dropout layer, and three fully-connected layers. 
 
-### Performance
-In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
-
-
 <div align=center><img src="https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Flow%20Diagram.png" width = "250" div align=center />
 
 Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 
+### Performance
+In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
 
 ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png)
 
