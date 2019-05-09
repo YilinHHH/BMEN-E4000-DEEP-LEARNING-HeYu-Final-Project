@@ -42,9 +42,8 @@ Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 ### Performance
 In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
 
-<div align=center>
-  
-  ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png)
+<div align=center><img src="https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Result.png" width = "250" div align=center />
+
 
 Figure 2. The classification results of IDC and non-IDC on histopathologic images at 40 magnification.
 
