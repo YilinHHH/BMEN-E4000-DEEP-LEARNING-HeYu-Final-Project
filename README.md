@@ -38,6 +38,7 @@ This model consisted of one pre-trained Xception model, one GlobalAveragePooling
 Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 
 <div align=left>
+  
 ### Performance
 In supervised learning, the confusion matrix is an enriched summary of the classification result. MOst statistic results can be illustrated from it.
 
