@@ -56,4 +56,12 @@ Figure 2. The classification results of IDC and non-IDC on histopathologic image
 
 Figure 3. ROC curve.
 
+<div align=left>
+  
+  ### File Description
+ - [Pre-processing](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Pre-pocessing.ipynb)
+ 
+ - [Model Setup & Training & Prediction & Evaluation](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Training.ipynb)
+ 
+ - [Appendix](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/tree/master/Appendix) (See detailed information in README file in the Appendix folder.)
 
