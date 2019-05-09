@@ -1,10 +1,11 @@
 # BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project
 
-## Classification of Invasive Ductal Carcinoma and Non-Invasive Ductal Carcinoma in Histopathology Section of Breast Cancer Using Convolutional Neural Network
+Classification of Invasive Ductal Carcinoma and Non-Invasive Ductal Carcinoma in Histopathology Section of Breast Cancer Using Convolutional Neural Network
 
 Haoyang Yu (hy2581) & Yilin He (yh3089)
 
 ![alt text](https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Flow%20Diagram.png)
+<img src="https://github.com/YilinHHH/BMEN-E4000-DEEP-LEARNING-HeYu-Final-Project/blob/master/Figures/Flow%20Diagram.png" width = 50% height = 50% div align=right />
 
 Figure 1. The flow diagram of the proposed convolution neural network mdoel.
 
